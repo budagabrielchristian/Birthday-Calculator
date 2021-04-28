@@ -18,3 +18,5 @@ elif today<=birthday:
 elif today > birthday:
     print("Your birthday was ",int(abs(till_birthday.days))," days ago")
     print("Your birthday was on a ",birthday.strftime("%A"))
+    
+    
